@@ -1,4 +1,4 @@
-# YouTube Data Harvesting and Warehousing
+# ![youtube-logo-2431](https://github.com/pranitakhade/YouTube-Data-Harvesting-and-Warehousing/assets/142147093/a962090a-60bd-42f7-99c9-4c71fc7855e5) YouTube Data Harvesting and Warehousing
 
 | Project Title | YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit |
 | --- | --- |
