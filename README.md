@@ -40,3 +40,15 @@ Overall, this approach involves building a simple UI with Streamlit, retrieving 
 This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and enables users to search for channel details and join tables to view data in the Streamlit app.
 
 
+![Screenshot (30)](https://github.com/pranitakhade/YouTube-Data-Harvesting-and-Warehousing/assets/142147093/6d3e6a12-984f-40c4-a981-ccfeec0a6052)
+
+![Screenshot (31)](https://github.com/pranitakhade/YouTube-Data-Harvesting-and-Warehousing/assets/142147093/650d1b6e-f62d-43e8-877d-433e60804d9f)
+
+![Screenshot (32)](https://github.com/pranitakhade/YouTube-Data-Harvesting-and-Warehousing/assets/142147093/56caf4a7-0528-4eae-945f-f270416e6f3e)
+
+![Screenshot (33)](https://github.com/pranitakhade/YouTube-Data-Harvesting-and-Warehousing/assets/142147093/51fd5b31-c96a-487d-9ed0-c9559e001ab6)
+
+![Screenshot (34)](https://github.com/pranitakhade/YouTube-Data-Harvesting-and-Warehousing/assets/142147093/f2204563-5062-4ea5-962f-4273974408f1)
+
+![Screenshot (35)](https://github.com/pranitakhade/YouTube-Data-Harvesting-and-Warehousing/assets/142147093/d92706a1-63b7-4b83-96ac-0296183b495c)
+
