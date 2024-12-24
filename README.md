@@ -13,6 +13,9 @@ The problem statement is to create a Streamlit application that allows users to 
 4. Option to select a channel name and migrate its data from the data lake to a SQL database as tables.
 5. Ability to search and retrieve data from the SQL database using different search options, including joining tables to get channel details.
 
+![Screenshot (30)](https://github.com/user-attachments/assets/f04203fd-f30f-4f1f-9bb9-ab3aa53b2f42)
+
+
 ### Approach: 
 1. Set up a Streamlit app: Streamlit is a great choice for building data visualization and analysis tools quickly and easily. You can use Streamlit to create a simple UI where users can enter a YouTube channel ID, view the channel details, and select channels to migrate to the data warehouse.
 2. Connect to the YouTube API: You'll need to use the YouTube API to retrieve channel and video data. You can use the Google API client library for Python to make requests to the API.
@@ -22,6 +25,10 @@ The problem statement is to create a Streamlit application that allows users to 
 6. Display data in the Streamlit app: Finally, you can display the retrieved data in the Streamlit app. You can use Streamlit's data visualization features to create charts and graphs to help users analyze the data.
 
 Overall, this approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing it in a MongoDB data lake, migrating it to a SQL data warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.
+
+![Screenshot (31)](https://github.com/user-attachments/assets/873db3ed-8bfa-4d7e-9ef2-20fbfb4fa386)
+
+![Screenshot (32)](https://github.com/user-attachments/assets/f671b117-f9fc-48fd-862d-55c07e0c784d)
 
 ### SQL Query Output need to displayed as table in Streamlit Application:
 
@@ -35,7 +42,12 @@ Overall, this approach involves building a simple UI with Streamlit, retrieving 
 8. What are the names of all the channels that have published videos in the year 2022?
 9. What is the average duration of all videos in each channel, and what are their corresponding channel names?
 10. Which videos have the highest number of comments, and what are their corresponding channel names?
+
+![Screenshot (33)](https://github.com/user-attachments/assets/ab39a045-7d31-4cc3-b3bf-71fac5e9b61a)
+![Screenshot (34)](https://github.com/user-attachments/assets/32862b01-f9bd-4825-afac-a8f404348c8b)
+
     
 ### Results: 
 This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and enables users to search for channel details and join tables to view data in the Streamlit app.
 
+![Screenshot (35)](https://github.com/user-attachments/assets/785d7985-4dde-456c-ac5f-161b18940642)
